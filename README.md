@@ -6,8 +6,6 @@
 [1.0 blue_ezmod](https://player.s-ul.eu/zm4SUttA)
 ![screenshot114](https://user-images.githubusercontent.com/112648803/187969498-c3effea0-aa66-4b8a-aae2-8c127f68a63c.jpg)
 
-
-
 # All Skins
 
 [1.0](https://player.s-ul.eu/R3psXOe2)
