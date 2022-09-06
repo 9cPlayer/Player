@@ -1,6 +1,10 @@
 # Currently Using
 
 [1.0 blue](https://player.s-ul.eu/lmcMk0uw)
+setting
+followpoints: 1
+defaults: 2
+cursors: trail
 ![screenshot123](https://user-images.githubusercontent.com/112648803/187972480-c350c2a9-a071-4151-90b3-20f7a4976e7d.jpg)
 
 [1.0 blue_ezmod](https://player.s-ul.eu/3sv6FIfv)
