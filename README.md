@@ -1,10 +1,7 @@
 # Currently Using
 
-[1.1 blue](https://player.s-ul.eu/BkwyRnxp)
-![screenshot037](https://user-images.githubusercontent.com/112648803/189274952-77a6dab4-7000-41b5-8344-342d9e14cd5a.jpg)
-
-[1.0 blue_ezmod](https://player.s-ul.eu/3sv6FIfv)
-![screenshot114](https://user-images.githubusercontent.com/112648803/187969498-c3effea0-aa66-4b8a-aae2-8c127f68a63c.jpg)
+[1.0 blue](https://player.s-ul.eu/lmcMk0uw)
+![screenshot123](https://user-images.githubusercontent.com/112648803/187972480-c350c2a9-a071-4151-90b3-20f7a4976e7d.jpg)
 
 # All Skins
 
