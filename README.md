@@ -1,8 +1,6 @@
 # Currently Using
 
-[2.0](https://player.s-ul.eu/ommSn7SN)
-![screenshot036](https://user-images.githubusercontent.com/112648803/235307633-da59e802-46c6-4de7-91e7-d28e4ea6f79d.jpg)
-
+[2.0 Edit](https://player.s-ul.eu/VzoXNHB3)
 
 # All Skins
 
