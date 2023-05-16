@@ -1,6 +1,6 @@
 # Currently Using
 
-[2.0 Edit](https://player.s-ul.eu/VzoXNHB3)
+[2.0 Edit](https://player.s-ul.eu/3w2taiEH)
 No screenshot
 
 # All Skins
