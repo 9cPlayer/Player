@@ -1,6 +1,6 @@
 # Currently Using
 
-[2.0 Edit](https://player.s-ul.eu/XXOmX0IH)
+[2.0 Edit](https://player.s-ul.eu/dlr19ZR1)
 ![screenshot064](https://github.com/9cPlayer/Player/assets/112648803/be21fbff-91b7-4a0a-a3e2-d0cda854be94)
 
 
