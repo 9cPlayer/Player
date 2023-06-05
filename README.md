@@ -1,7 +1,7 @@
 # Currently Using
 
-[2.0 Edit](https://player.s-ul.eu/dlr19ZR1)
-![screenshot064](https://github.com/9cPlayer/Player/assets/112648803/be21fbff-91b7-4a0a-a3e2-d0cda854be94)
+[2.0 Edit](https://player.s-ul.eu/tKZf8Oy4)
+![screenshot067](https://github.com/9cPlayer/Player/assets/112648803/553c74c3-30ed-4073-8151-f6220b080ec4)
 
 
 # All Skins
